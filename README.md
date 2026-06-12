@@ -125,15 +125,7 @@ The design uses **Booth's Radix-2 Algorithm** over 32 iterative cycles:
 
 ## Comparison with Conventional Multipliers
 
-| Metric | Conventional Multiplier | Approximate Multiplier |
-|---|---|---|
-| Area | High | **Low** |
-| Delay | Higher | **Lower** |
-| Speed | Moderate | **High** |
-| Accuracy | Exact | Approximate |
-| Power Efficiency | Moderate | Needs Optimization |
-
----
+![analysis](results/analysis.png)
 
 ## Applications
 
