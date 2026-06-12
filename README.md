@@ -55,7 +55,7 @@ Approximation is introduced in the lower-order bits using OR-based logic while p
 Insert the block diagram image below:
 
 ```text
-[ Approximate Multiplier Block Diagram ]
+[ results/Block Diagram.png ]
 ```
 
 ---
